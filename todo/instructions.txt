@@ -1,0 +1,1 @@
+The program requires one flag, either -color on -nocolor. It either prints in color or without color.

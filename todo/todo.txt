@@ -1,0 +1,6 @@
+# Gotta walk the dog in the evening
+[ ] Walk the dog
+# Yeah idk
+[-] Fly to space
+[x] Docker test
+[+] TODO Golang
